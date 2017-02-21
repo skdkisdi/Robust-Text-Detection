@@ -23,6 +23,6 @@ Usage:
 3. $ cd build  
 4. $ cmake ..  
 5. $ make  
-6. $ ./Robust_Text_Detection ../TestText.png
+6. $ ./Robust_Text_Detection ../TestText.png [path to save intermediate images]
 
 Have fun!
