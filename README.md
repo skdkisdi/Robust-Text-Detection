@@ -18,11 +18,6 @@ Note:
 1. before running this code, install OpenCV and tesseract first!
 
 Usage:
-1. delete the folder "build"
-2. $ mkdir build
-3. $ cd build
-4. $ cmake ..
-5. $ make
-6. $ ./Robust_Text_Detection ../TestText.png
+1. delete the folder "build"  2. $ mkdir build  3. $ cd build  4. $ cmake ..  5. $ make  6. $ ./Robust_Text_Detection ../TestText.png
 
 Have fun!
