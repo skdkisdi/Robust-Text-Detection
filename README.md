@@ -14,11 +14,11 @@ Feel free to correct my code, if you spotted the mistakes
 
 =====================
 
-Note: 
+Note:  
 1. before running this code, install OpenCV and tesseract first!
 
-Usage:
-1. delete the folder "build"
+Usage:  
+1. delete the folder "build"  
 2. $ mkdir build  
 3. $ cd build  
 4. $ cmake ..  
